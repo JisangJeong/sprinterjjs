@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprinterjjs
-- 👀 I’m interested in "Condition Based Maintenance"
+- 👀 I’m interested in "Condition Based Maintenance" - C++ / C !
 - 🌱 I’m currently learning "C#" as a beginner.
 - 💞️ I’m looking to collaborate on "DevMalls"
 - 📫 How to reach me "sprinterjjs@gmail.com"
